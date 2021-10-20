@@ -1,1 +1,2 @@
-hello git test 2021/10/20 19:41
+Git is a distributed version control system.
+Git is free software.
